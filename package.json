@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/dacianspinu/react-comprehensive-guide/issues"
   },
-  "homepage": "https://github.com/dacianspinu/react-comprehensive-guide#readme"
+  "homepage": "https://github.com/dacianspinu/react-comprehensive-guide#readme",
+  "dependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "browser-js": "^1.10.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
 }
