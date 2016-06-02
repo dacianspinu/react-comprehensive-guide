@@ -1,0 +1,19 @@
+{
+  "name": "react-comprehensive-guide",
+  "version": "1.0.0",
+  "description": "This should be a more extensive ReactJS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacianspinu/react-comprehensive-guide.git"
+  },
+  "author": "Dacian Spinu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacianspinu/react-comprehensive-guide/issues"
+  },
+  "homepage": "https://github.com/dacianspinu/react-comprehensive-guide#readme"
+}
